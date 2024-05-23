@@ -7,4 +7,4 @@ tensorflow
 torch
 tf-keras
 matplotlib
-sklearn
+scikit-learn
