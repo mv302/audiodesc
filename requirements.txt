@@ -1,12 +1,8 @@
 numpy
 Pillow
 pandas
-plotly
 streamlit
-speechrecognition
 transformers
-PyAudio
-streamlit-audiorecorder
 tensorflow
 torch
 tf-keras
