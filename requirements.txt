@@ -7,5 +7,4 @@ tensorflow
 torch
 tf-keras
 matplotlib
-pickle
 sklearn
